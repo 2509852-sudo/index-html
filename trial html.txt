@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My-personal Website</title>
+</head>
+<body>
+    <h1>Alvin kanyi</h1>
+<p>Welcome to my personal website where I share about myself,My Education, skills and knowledge of HTML.</p>
+
+    <nav>
+        <h2>Navigation</h2>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#Education">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#htmlskills">HTML as One of My Core Skills</a></li>
+
+    </nav>
+</header>
+
+<hr>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>My name is Alvin kanyi,i am 21 years old i come from Nairobi.I am passionate about learning technology and also software development. </p>
+
+    <p>One of the fundamental technologies used to build websites is HTML, which I have learned to use to structure web pages.</p>
+
+    
+<hr>
+
+<section id="Education">
+    <h2>My Education</h2>
+
+    <p>I started my education at pionner junior which i acquired good grades and transited to the next level which was highschool education where i schooled at Moi forces academy.
+        Now i am in kca university enrolling in the course of information technology which i want to acquire the skills which will help me in the future to come.
+    </p>
+
+
+</section>
+
+<hr>
+
+</section>
+
+<hr>
+
+<section id="htmlskills">
+
+<h2>HTML as One of My Core Skills</h2>
+
+<p>HTML stands for HyperText Markup Language. It is the standard markup language used to create web pages.</p>
+
+<p>HTML does not function as a programming language but as a markup language that structures content on the web using elements and tags.</p>
+
+<p>An HTML element is made up of a start tag, content, and an end tag.</p>
+
+<p>Tables organize data in rows and columns.</p>
+
+<p>Common table elements include:</p>
+
+
+<li><strong>&lt;table&gt;</strong> – Defines the table.</li>
+<li><strong>&lt;tr&gt;</strong> – Table row.</li>
+<li><strong>&lt;th&gt;</strong> – Table header cell.</li>
+<li><strong>&lt;td&gt;</strong> – Table data cell.</li>
+
+<h3>Forms</h3>
+
+<p>Forms allow users to input data.</p>
+
+<p>Important form elements include:</p>
+
+<ul>
+
+<li><strong>&lt;form&gt;</strong> – Defines a form.</li>
+<li><strong>&lt;input&gt;</strong> – Allows users to enter information.</li>
+<li><strong>&lt;label&gt;</strong> – Labels form fields.</li>
+<li><strong>&lt;textarea&gt;</strong> – Multi-line input.</li>
+<li><strong>&lt;button&gt;</strong> – Submits the form.</li>
+
+Semantic Elements</h3>
+
+<p>Semantic HTML elements clearly describe the meaning of content.</p>
+
+<ul>
+
+<li><strong>&lt;header&gt;</strong> – Introductory content.</li>
+<li><strong>&lt;nav&gt;</strong> – Navigation links.</li>
+<li><strong>&lt;section&gt;</strong> – Thematic grouping.</li>
+<li><strong>&lt;article&gt;</strong> – Independent content.</li>
+<li><strong>&lt;footer&gt;</strong> – Footer information.</li>
+
+</ul>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 My Personal Profile Website</p>
+
+</footer>
+
+
+</body>
+</html>
